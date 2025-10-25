@@ -1,0 +1,297 @@
+{
+  "basics": {
+    "name": "Zih-Chien Sun",
+    "headline": "Senior Software Engineering Consultant (.NET Core)",
+    "summary": "十年以上軟體開發與系統分析經驗，專注 .NET Core 後端、雲端服務、資料流程與 AI/RAG 多代理系統（MCP/AutoGen）。在金融、電商、支付、IVR、CMS 等領域具備完整的系統規劃與實作能力。",
+    "location": "Taipei, Taiwan",
+    "openToWork": true,
+    "remote": true,
+    "email": "neo_7442_@hotmail.com",
+    "website": "",
+    "profiles": {
+      "linkedin": "https://www.linkedin.com/in/zihchien-sun",
+      "github": ""
+    },
+    "highlights": [
+      "規劃與實作多代理（MCP + RAG）平台，串接 Ollama/Qdrant/多模態模型（CLIP、Llama3.2-vision）。",
+      "打造在地化 AI 服務（Whisper STT、LLM API、向量檢索）並容器化上線。",
+      "擅長 N-tier 架構、REST/gRPC、Kestrel + 反向代理、CI/CD 與資料表結構設計。"
+    ]
+  },
+  "skills": [
+    {
+      "name": "語言",
+      "items": [
+        "C#",
+        "Python",
+        "JavaScript",
+        "TypeScript (基礎)",
+        "SQL"
+      ]
+    },
+    {
+      "name": "後端 / 架構",
+      "items": [
+        ".NET Core 3.1–8",
+        "ASP.NET Web API",
+        "gRPC",
+        "Flask",
+        "SignalR Core",
+        "WebSocket"
+      ]
+    },
+    {
+      "name": "AI/向量/代理",
+      "items": [
+        "Ollama",
+        "Semantic Kernel",
+        "llama.cpp",
+        "Qdrant",
+        "AutoGen",
+        "ONNX",
+        "Whisper STT",
+        "MCP Server"
+      ]
+    },
+    {
+      "name": "資料與資料庫",
+      "items": [
+        "SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "Redis",
+        "Neo4j",
+        "Pandas",
+        "NumPy",
+        "ETL"
+      ]
+    },
+    {
+      "name": "前端",
+      "items": [
+        "Vue 2–3",
+        "Bootstrap",
+        "jQuery",
+        "JavaScript/CSS Frameworks"
+      ]
+    },
+    {
+      "name": "雲端 / DevOps",
+      "items": [
+        "Docker",
+        "Linux (Ubuntu)",
+        "Windows",
+        "GCP",
+        "AWS"
+      ]
+    },
+    {
+      "name": "ORM / 工具",
+      "items": [
+        "Dapper",
+        "Entity Framework Core",
+        "Swagger/OpenAPI"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Unisys",
+      "title": "Senior Software Engineering Consultant",
+      "location": "Taipei City, Taiwan",
+      "start": "2021-12",
+      "end": "Present",
+      "highlights": [
+        "金融領域多專案開發與整合（客服、知識管理等）。",
+        "建置 AI 互動服務與多代理架構（RAG、Ollama、Qdrant、llama.cpp、Semantic Kernel）。",
+        "跨平台部署與雲端資源運維（Windows / Ubuntu、GCP、AWS）。"
+      ]
+    },
+    {
+      "company": "yi-spaces",
+      "title": "Senior Software Engineer Team Lead",
+      "location": "Taipei City, Taiwan",
+      "start": "2021-06",
+      "end": "2021-09",
+      "highlights": [
+        "帶領 12 人團隊，制定技術框架與開發流程。",
+        "參與雲端服務從設計到上線的完整生命週期。",
+        "訓練新進同仁並安排任務分工。"
+      ]
+    },
+    {
+      "company": "Contract Outsourcing",
+      "title": "Senior Software Developer (Freelance)",
+      "location": "",
+      "start": "2020-09",
+      "end": "2021-04",
+      "highlights": [
+        "系統分析與需求彙整，於 GitLab 進行議題與文件管理。",
+        "以 .NET Core 2.2–5 建構服務，併用 Redis、MongoDB、RabbitMQ。",
+        "Design SQL 資料表與跨平台前端（REST/gRPC）。"
+      ]
+    },
+    {
+      "company": "phoenix",
+      "title": ".NET Core Developer",
+      "location": "Taipei",
+      "start": "2019-09",
+      "end": "2020-09",
+      "highlights": [
+        "雲端微服務：REST API、Token/Gateway、CRM/ERP/廣告、Batch/Worker。",
+        "串流影音預約與即時報表、多租戶服務。",
+        "C# .NET Core、MySQL、Angular、Linux on GCP 或 Docker。"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "title": "Software Developer",
+      "location": "",
+      "start": "2018-10",
+      "end": "2019-09",
+      "highlights": [
+        "協助企業與個人之資訊系統需求規劃與開發。"
+      ]
+    },
+    {
+      "company": "Astucemedia",
+      "title": "Software Developer",
+      "location": "Montreal",
+      "start": "2018-05",
+      "end": "2018-08",
+      "highlights": [
+        "資料蒐集與效能導向平台開發；TV 網路資料供應鏈整合。",
+        "權限／通知／內容管理、資料供應商匯入與整理。"
+      ]
+    },
+    {
+      "company": "Ezpay Inc",
+      "title": "Senior .NET Developer RD",
+      "location": "Taipei City, Taiwan",
+      "start": "2017-04",
+      "end": "2018-04",
+      "highlights": [
+        "電子支付情境（B2B/B2C/O2C），負責後台與 CMS 與支付流程 API。",
+        "IIS/分散式環境、MS-SQL、EF/LINQ、Swagger、Jenkins/GitLab。"
+      ]
+    },
+    {
+      "company": "Lion Travel",
+      "title": "System Analyst",
+      "location": "Taipei, Taiwan",
+      "start": "2017-07",
+      "end": "2018-03",
+      "highlights": [
+        "高速行程下單＋第三方支付 OLTP 流程，含會員、驗證、自動郵件、PDF。",
+        "Mongo/Redis 快取、備援、記錄與備份策略；帶領 3 位程式設計師。"
+      ]
+    },
+    {
+      "company": "Future Leading Investor",
+      "title": ".NET Software Developer",
+      "location": "Taipei, Taiwan",
+      "start": "2016-11",
+      "end": "2017-04",
+      "highlights": [
+        "交易與會計系統維運，資料備份規範、SP 設計、報表與 WinForms/MVC。"
+      ]
+    },
+    {
+      "company": "First Securities Inc.",
+      "title": "Senior Specialist",
+      "location": "Taipei City, Taiwan",
+      "start": "2015-07",
+      "end": "2016-10",
+      "highlights": [
+        "AML 系統維運、交易/備份/ETL/交易 SP；權證交易系統汰換專案。",
+        "蒐集市場數據（Excel VBA）、風險控管、報表（NPOI/EPPlus）。"
+      ]
+    },
+    {
+      "company": "JEPUN",
+      "title": ".NET Developer",
+      "location": "Taipei City, Taiwan",
+      "start": "2015-05",
+      "end": "2015-07",
+      "highlights": [
+        "WPF/DevExpress、報表、SQL Server SP/Function/備份。"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "本地多代理 RAG 與語意搜尋平台",
+      "description": "以 Ollama + Qdrant + 多模態（CLIP、Llama3.2-vision）建置多代理語意搜尋與問答；支援 MCP Server、AutoGen 流程協作。",
+      "tech": [
+        ".NET 8",
+        "Python",
+        "Ollama",
+        "Qdrant",
+        "AutoGen",
+        "MCP",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Whisper 在地 STT 服務",
+      "description": "部署 Whisper 進行語音轉文字（含說話人分離），以 Flask/FastAPI 提供串流 API，整合前後端字幕。",
+      "tech": [
+        "Python",
+        "FastAPI/Flask",
+        "Whisper",
+        "Pyannote",
+        "Docker"
+      ]
+    },
+    {
+      "name": "模型格式轉換與量化",
+      "description": "將 PyTorch/HF 模型轉 GGUF，使用 llama.cpp 量化並優化記憶體占用與推論延遲。",
+      "tech": [
+        "PyTorch/HF",
+        "GGUF",
+        "llama.cpp"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Neo4j Fundamentals",
+      "issuer": "Neo4j",
+      "date": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "Institute for Information Industry",
+      "degree": "Program",
+      "field": "C#, ASP.NET (MVC), MSSQL, HTML5/CSS/JS/AJAX/JSON/JQuery",
+      "start": "2014",
+      "end": "2015"
+    },
+    {
+      "school": "National Kaohsiung University of Hospitality and Tourism",
+      "degree": "Bachelor's",
+      "field": "Foods, Nutrition, and Wellness Studies (General)",
+      "start": "2003",
+      "end": "2008"
+    },
+    {
+      "school": "National Hsinhua Industrial Vocational High School",
+      "degree": "High School Diploma",
+      "field": "Architecture and Construction Technology",
+      "start": "2000",
+      "end": "2003"
+    }
+  ],
+  "contact": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/zihchien-sun",
+      "newTab": true
+    },
+    {
+      "label": "Email",
+      "href": "mailto:neo_7442_@hotmail.com"
+    }
+  ]
+}
